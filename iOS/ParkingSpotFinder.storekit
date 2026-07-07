@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Parking Spot Finder Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Parking timer alerts and history of favorite garages/lots",
+              "displayName": "Parking Spot Finder Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.parkspot.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Parking Spot Finder Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
